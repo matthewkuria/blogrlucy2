@@ -1,5 +1,5 @@
-import phones from "/images/illustration-phones.svg";
-import circles from "/images/bg-pattern-circles.svg";
+import phones from "/illustration-phones.svg";
+import circles from "/bg-pattern-circles.svg";
 import React from "react";
 
 const State = () => {

@@ -1,6 +1,6 @@
 import React from "react";
-import desktopimage from "/images/illustration-editor-desktop.svg";
-import mobileimage from "./images/illustration-editor-mobile.svg";
+import desktopimage from "/illustration-editor-desktop.svg";
+import mobileimage from "/illustration-editor-mobile.svg";
 const Designed = () => {
   return (
     <>

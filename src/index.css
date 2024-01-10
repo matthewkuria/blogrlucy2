@@ -95,7 +95,7 @@ body {
   border-bottom-left-radius: 100px;
 }
 .showcase .overlay {
-  background: url("./images/bg-pattern-intro-desktop.svg") no-repeat
+  background: url("./bg-pattern-intro-desktop.svg") no-repeat
     center/cover;
 
   min-height: 400px;

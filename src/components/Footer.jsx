@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { footer } from "../data/footer";
 import React from "react";
-import logo from "../images/logo.svg";
+import logo from "/logo.svg";
 
 const Footer = () => {
   const [footerLinks, setFooterLinks] = useState(footer);

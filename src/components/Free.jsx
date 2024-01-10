@@ -1,5 +1,5 @@
-import desktopimage from "../images/illustration-laptop-desktop.svg";
-import mobileimage from "../images/illustration-laptop-mobile.svg";
+import desktopimage from "/illustration-laptop-desktop.svg";
+import mobileimage from "/illustration-laptop-mobile.svg";
 import React from "react";
 
 const Free = () => {

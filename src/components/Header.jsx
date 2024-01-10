@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import { footer } from "../data/footer";
-import logo from "/images/logo.svg";
+import logo from "/logo.svg";
 import Buttons from "./Buttons";
 import Menu from "./Menu";
 const Header = () => {

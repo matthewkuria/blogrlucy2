@@ -1,6 +1,6 @@
 import React from "react";
-import open from "/images/icon-hamburger.svg";
-import close from "/images/icon-close.svg";
+import open from "/icon-hamburger.svg";
+import close from "/icon-close.svg";
 const Menu = ({ isOpen, setIsOpen }) => {
   return (
     <>
